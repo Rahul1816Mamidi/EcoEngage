@@ -1,4 +1,5 @@
 # EcoEngage
+<img width="1889" height="878" alt="Screenshot 2026-02-07 132530" src="https://github.com/user-attachments/assets/b60431d6-1ba5-41e5-9b44-448f3baa0f46" />
 
 ![EcoEngage](https://raw.githubusercontent.com/Rahul1816Mamidi/EcoEngage/main/eco-engage-screenshot.png)
 
